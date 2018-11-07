@@ -100,4 +100,4 @@ def master(chances):
         input("Press Enter to exit...") #holds until player is ready
     
 
-master(7)
+master(7) #the number in this function controls the number of guesses the player gets to make.
